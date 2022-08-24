@@ -1,4 +1,4 @@
-## Zomato-data-analysis(Bangalore)
+## Restaurant-data-analysis(Bangalore)
 #### In this project I have taken a problem statement that is, "A person wants to setup a restaurant in Bangalore City and he wants to analysis that what approaches should be adopted to attain the maximum profit".
 In the dashboard we have restaurant types,certain Locations, Cusinies, Average billing amount, Total votes, Average rating, Top 10 reastaurant.
 The Dashborad hepls to figure out the solution to the problem statement that are:
